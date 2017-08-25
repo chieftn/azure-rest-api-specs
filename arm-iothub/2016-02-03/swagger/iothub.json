@@ -1038,7 +1038,7 @@
           "type": "string",
           "x-ms-enum": {
             "name": "AccessRights",
-            "modelAsString": false
+            "modelAsString": true
           }
         }
       },
